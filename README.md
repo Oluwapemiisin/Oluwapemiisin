@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I’m Oluwapemiisin 👋
 
-<!--
-**Oluwapemiisin/Oluwapemiisin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+PhD researcher in Secure and Embedded Systems at Morgan State University.
 
-Here are some ideas to get you started:
+🔐 Research Interests
+- Home network security
+- Consumer router compliance (NIST IR 8425A)
+- IoT and embedded system security
+- Network segmentation and policy design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 Tools
+Python, C, Kali Linux, Wireshark, pfSense, AWS, Docker
+
+📫 Connect with me
+LinkedIn: https://linkedin.com/in/oluwapemiisin-akingbola
